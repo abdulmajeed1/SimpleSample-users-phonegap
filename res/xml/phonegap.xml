@@ -2,4 +2,7 @@
 <phonegap>
     <access origin="http://127.0.0.1*"/>
     <log level="DEBUG"/>
+    <plugin name="Camera" value="org.apache.cordova.CameraLauncher" />
+
+    
 </phonegap>
