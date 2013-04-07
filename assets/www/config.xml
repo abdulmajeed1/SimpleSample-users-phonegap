@@ -17,6 +17,7 @@
     </author>
 
 <plugin name="Camera" value="org.apache.cordova.CameraLauncher" />
+<plugin name="Geolocation" value="org.apache.cordova.GeoBroker" />
 
 
     <!--
